@@ -1,6 +1,6 @@
 from email.message import EmailMessage
 from multiprocessing import context
-from email_details import password
+from app_password import password
 import ssl
 import smtplib
 
